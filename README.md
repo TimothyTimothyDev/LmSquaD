@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LmSquaD (Timothy Muzakparov).
-- 👀 I’m interested in front-end develop.
-- 🌱 I’m currently learning html5, css3, JS.
+- 👀 I’m interested in mobile dev.
+- 🌱 I’m currently learning dart/flutter.
 
 - 📫 How to reach me:
 telegram: @killmesuicide

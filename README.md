@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LmSquaD (Timothy Muzakparov).
+- 👋 Hi, I’m @TimothyTimothy (Timothy Muzakparov).
 - 👀 I’m interested in mobile dev.
 - 🌱 I’m currently learning dart/flutter.
 
